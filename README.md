@@ -18,4 +18,4 @@ Auto, Car  Motorcycle
 ## How to Run
 1. Install required libraries:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_vehicle.txt
